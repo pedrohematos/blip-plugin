@@ -1,0 +1,2 @@
+(this["webpackJsonpblip-plugin"]=this["webpackJsonpblip-plugin"]||[]).push([[26],{102:function(t,i,n){"use strict";n.r(i),n.d(i,"bds_modal_action",(function(){return p}));var o=n(14),p=function(){function t(t){Object(o.i)(this,t)}return t.prototype.render=function(){return Object(o.g)("div",{class:"modal__action"},Object(o.g)("slot",null))},t}();p.style=".modal__action{display:-ms-flexbox;display:flex;padding-left:24px;padding-top:16px;position:absolute;bottom:32px;right:32px}"}}]);
+//# sourceMappingURL=26.574e295c.chunk.js.map
